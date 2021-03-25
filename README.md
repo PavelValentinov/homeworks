@@ -1,7 +1,7 @@
 # NeuroStartUp
 
-![](![](http://detyammebel.ru/wp-content/uploads/2017/12/logo.png)
-)
+![](http://detyammebel.ru/wp-content/uploads/2017/12/logo.png)
+
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
